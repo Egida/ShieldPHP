@@ -1,3 +1,5 @@
+Новинка - просто смотрит логи в реальном времени и блокирует по ipset API. https://github.com/Murkirpus/murkir-shield
+
 Redis MurKir Security v2.2 1.10.2025 - This is a new alternative revolutionary solution!
 https://github.com/Murkirpus/Redis-Bot-Protection
 
